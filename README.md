@@ -1,2 +1,7 @@
-# ARCH
-Comparative Analysis of SOTA Vision Architectures.
+![Alt text](/images/1.png "paper")
+![Alt text](/images/2.png "paper")
+![Alt text](/images/3.png "paper")
+![Alt text](/images/4.png "paper")
+![Alt text](/images/5.png "paper")
+![Alt text](/images/6.png "paper")
+![Alt text](/images/7.png "paper")
