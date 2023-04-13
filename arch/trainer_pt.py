@@ -3,7 +3,7 @@ import numpy as np
 import torch.nn as nn
 from torch import optim
 
-class Model:
+class Trainer:
     def __init__(self, model, device):
         self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
         self.model = model.to(device)
